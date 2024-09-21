@@ -54,4 +54,4 @@ This repository contains various implementations related to Time Series analysis
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Timeseries-Sequences-Predictions.git
+   git clone https://github.com/PXDHU/Timeseries-Sequences-Predictions.git
